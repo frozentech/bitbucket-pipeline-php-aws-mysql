@@ -6,7 +6,6 @@ Extended from:
 Docker image at [frozentech/bitbucket-pipeline-php-aws-mysql](https://hub.docker.com/r/frozentech/bitbucket-pipeline-php-aws-mysql/)
 
 Built in's:
-  - ENV GOOSE_DIR
   - ENV MYSQL_ROOT_PASSWORD
   - mysql-server (`/etc/init.d/mysql start`)
   - redis (`/etc/init.d/redis-server start`)
@@ -15,7 +14,7 @@ Built in's:
 Sample `bitbucket-pipelines.yml`:
 
 ```YAML
-image: gianebao/bitbucket-pipeline-go-aws-mysql
+image: frozentech/bitbucket-pipeline-php-aws-mysql
 pipelines:
   default:
     - step:
