@@ -1,9 +1,8 @@
 # bitbucket-pipeline-php-aws-mysql
 An inspiration from: [smartapps/bitbucket-pipelines-php-mysql](https://hub.docker.com/r/smartapps/bitbucket-pipelines-php-mysql/)
 Extended from:
-[frozentech/bitbucket-pipeline-php-mysql](https://hub.docker.com/r/frozentech/bitbucket-pipeline-php-mysql)
-
-AWS](https://aws.amazon.com/cli/) [MySQL](https://www.mysql.com)
+[frozentech/bitbucket-pipeline-php-mysql](https://hub.docker.com/r/frozentech/bitbucket-pipelines-php-mysql)
+[AWS](https://aws.amazon.com/cli/) [MySQL](https://www.mysql.com)
 Docker image at [frozentech/bitbucket-pipeline-php-aws-mysql](https://hub.docker.com/r/frozentech/bitbucket-pipeline-php-aws-mysql/)
 
 Built in's:
